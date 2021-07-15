@@ -69,6 +69,7 @@ write before  `setContentView()` such as :
         setContentView(R.layout.activity_main);
 ```
 ### Preview
+<img src="https://raw.githubusercontent.com/MdAbdullahAlMahmud/Android-Custom-Status-Bar/master/photo_2021-07-15_18-09-05%20(2).jpg" height="300">
 ![Asset 1](https://raw.githubusercontent.com/MdAbdullahAlMahmud/Android-Custom-Status-Bar/master/photo_2021-07-15_18-09-05%20(2).jpg) 
 ![Asset 2](https://raw.githubusercontent.com/MdAbdullahAlMahmud/Android-Custom-Status-Bar/master/photo_2021-07-15_18-09-05.jpg)
 ![Asset 3](https://raw.githubusercontent.com/MdAbdullahAlMahmud/Android-Custom-Status-Bar/master/photo_2021-07-15_18-09-06%20(2).jpg)
