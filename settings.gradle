@@ -1,0 +1,3 @@
+include ':CustomStatusBar'
+include ':app'
+rootProject.name = "Android Status Bar Example"
