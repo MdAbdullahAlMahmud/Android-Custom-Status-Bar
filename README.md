@@ -68,3 +68,9 @@ write before  `setContentView()` such as :
  CustomStatusBar.makeFullScreen(this);
         setContentView(R.layout.activity_main);
 ```
+### Preview
+![Asset 1](https://raw.githubusercontent.com/MdAbdullahAlMahmud/Android-Custom-Status-Bar/master/photo_2021-07-15_18-09-05%20(2).jpg) 
+![Asset 2](https://raw.githubusercontent.com/MdAbdullahAlMahmud/Android-Custom-Status-Bar/master/photo_2021-07-15_18-09-05.jpg)
+![Asset 3](https://raw.githubusercontent.com/MdAbdullahAlMahmud/Android-Custom-Status-Bar/master/photo_2021-07-15_18-09-06%20(2).jpg)
+![Asset 4](https://raw.githubusercontent.com/MdAbdullahAlMahmud/Android-Custom-Status-Bar/master/photo_2021-07-15_18-09-06%20(3).jpg) 
+![Asset 5](https://raw.githubusercontent.com/MdAbdullahAlMahmud/Android-Custom-Status-Bar/master/photo_2021-07-15_18-09-06.jpg)
