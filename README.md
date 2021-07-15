@@ -3,7 +3,7 @@ This library will help to to customize your activity status bar as much as you w
 
 ## Overview
 - Set Transparent Status bar
-- Set Icon color of Transparent Status bar (Blace/White)
+- Set Icon color of Transparent Status bar (Black/White)
 - set any color of status bar 
 - change the icon color of status bar according to your color
 - make full screen status bar  
