@@ -57,3 +57,14 @@ OR
  CustomStatusBar.transparentStatusBarWithIcon(this, true);
         setContentView(R.layout.activity_main);
 ```
+###  Make Full Screem 
+`.makeFullScreen(Activity activity)`
+
+write before  `setContentView()` such as :
+
+
+``` java
+
+ CustomStatusBar.makeFullScreen(this);
+        setContentView(R.layout.activity_main);
+```
