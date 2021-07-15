@@ -16,6 +16,6 @@ and:
 
 ```gradle
 dependencies {
-	    implementation 'com.github.MdAbdullahAlMahmud:Android-Custom-Status-Bar:v1.0.0'
+	    implementation 'com.github.MdAbdullahAlMahmud:Android-Custom-Status-Bar:v1.0.1'
 }
 ```
