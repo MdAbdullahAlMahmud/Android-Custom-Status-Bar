@@ -73,11 +73,11 @@ write before  `setContentView()` such as :
 <table>
  
   <tr>
-    <td><img src="https://raw.githubusercontent.com/MdAbdullahAlMahmud/Android-Custom-Status-Bar/master/photo_2021-07-15_18-09-05%20(2).jpg" height="300"></td>
-    <td><img src="https://raw.githubusercontent.com/MdAbdullahAlMahmud/Android-Custom-Status-Bar/master/photo_2021-07-15_18-09-05.jpg" height="300"></td>
-    <td><img src="https://raw.githubusercontent.com/MdAbdullahAlMahmud/Android-Custom-Status-Bar/master/photo_2021-07-15_18-09-06%20(2).jpg" height="300"></td>
-    <td><img src="https://raw.githubusercontent.com/MdAbdullahAlMahmud/Android-Custom-Status-Bar/master/photo_2021-07-15_18-09-06%20(3).jpg" height="300"></td>
-    <td><img src="https://raw.githubusercontent.com/MdAbdullahAlMahmud/Android-Custom-Status-Bar/master/photo_2021-07-15_18-09-06.jpg" height="300"></td></tr>
+    <td><img src="https://raw.githubusercontent.com/MdAbdullahAlMahmud/Android-Custom-Status-Bar/master/photo_2021-07-15_18-09-05%20(2).jpg" width="135" height="300"></td>
+    <td><img src="https://raw.githubusercontent.com/MdAbdullahAlMahmud/Android-Custom-Status-Bar/master/photo_2021-07-15_18-09-05.jpg" width="135" height="300"></td>
+    <td><img src="https://raw.githubusercontent.com/MdAbdullahAlMahmud/Android-Custom-Status-Bar/master/photo_2021-07-15_18-09-06%20(2).jpg" width="135"  height="300"></td>
+    <td><img src="https://raw.githubusercontent.com/MdAbdullahAlMahmud/Android-Custom-Status-Bar/master/photo_2021-07-15_18-09-06%20(3).jpg" width="135" height="300"></td>
+    <td><img src="https://raw.githubusercontent.com/MdAbdullahAlMahmud/Android-Custom-Status-Bar/master/photo_2021-07-15_18-09-06.jpg" width="135" height="300"></td></tr>
  </table>
 
 
