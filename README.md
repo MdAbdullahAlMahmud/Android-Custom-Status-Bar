@@ -16,6 +16,6 @@ and:
 
 ```gradle
 dependencies {
-    compile 'com.github.jitpack:android-example:{latest version}'
+	    implementation 'com.github.MdAbdullahAlMahmud:Android-Custom-Status-Bar:v1.0.0'
 }
 ```
